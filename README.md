@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quote Project**
 
-- 🌱 I’m currently learning **Angular,DSA,.NET CORE**
+- 🌱 I’m currently learning **Agentic AI,DSA,System Design,RAG**
 
 - 👯 I’m looking to collaborate on **Projects related to Flutter and .NET**
 
