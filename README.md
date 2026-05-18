@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi181020" alt="rishi181020" /></a> </p>
 
-- 🔭 I’m currently working on **Quote Project**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **Agentic AI,DSA,System Design,RAG**
 
