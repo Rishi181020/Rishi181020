@@ -32,7 +32,7 @@ I like problems where an AI system has to be *right*, not just fluent: retrieval
 <br><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.nixrajput.com/?username=Rishi181020&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Rishi181020&theme=light" alt="GitHub trophies">
 </a>
 
 </div>
